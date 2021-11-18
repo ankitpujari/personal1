@@ -1,0 +1,73 @@
+.top {
+  background-image: url(https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjB0ZXh0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
+  color: white;
+padding-top: 200px;
+margin: 0;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  font-family: 'Yellowtail', cursive;
+  font-size: 90px;
+  width: 400px;
+}
+
+h2 {font-family: 'Raleway', sans-serif;
+color: red;}
+
+h3 {font-family: 'Raleway', sans-serif;}
+
+body {text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+p {font-size: 18px;}
+
+.subtitle {position: relative;
+bottom: 70px;}
+
+.middle {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.bottom {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.bottomcloud {position: absolute;}
+
+.topcloud {position: relative;
+left: 300px;
+top: 50px;}
+
+.psd {height: 40px;
+width: 40px;
+margin-right: 5px;}
+
+.ai {height: 40px;
+width: 40px;
+margin-right: 5px;}
+
+.excel {height: 40px;
+width: 40px;
+margin-right: 5px;}
+
+.word {height: 40px;
+width: 40px;
+margin-right: 5px;}
+
+
+.btn {color: red;}
+
+.twitter {color: red;}
+
+.instagram {color: red;}
